@@ -4,4 +4,4 @@ try:
         print(f"{num} * {i} = {num*i}")
 
 except ValueError:
-    print("Number mustn't have any letters")
+    print("Number mustn't contain any letters")
