@@ -5,3 +5,5 @@ try:
 
 except ValueError:
     print("Number mustn't contain any letters")
+
+print(f"This is a table of {3} multiplied by numbers from 1 to 10.")
